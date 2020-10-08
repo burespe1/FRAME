@@ -1,4 +1,4 @@
-# New version of the European ITS Framework Architecture
+# [logo] New version of the European ITS Framework Architecture
 
 The European ITS Framework Architecture (FRAME) used for development of interconnected ITS services and systems is now in version 5:
 
