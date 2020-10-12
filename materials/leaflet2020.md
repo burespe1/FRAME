@@ -28,13 +28,13 @@ delivery. We are now introducing extra views into the FRAME Architecture
 so you can visualise additional aspects of your ITS Services.
 
 ## New Development Environment
-The FRAME is moving to Enterprise Architect, an up to date commercial modelling
+The FRAME is moving to Enterprise Architect, an up to date off-the-shelf modelling
 tool, widely known and used in industry to model architecture. It enables
 modelling of complex systems used to deliver ITS Services, using
 predefined toolboxes and ready-made architectures viewed from different
 perspectives; effective visualization and effortless reporting.
 
-logo CEF, logo FRAME-NEXT, architecture: [frame-online.eu](https://frame-online.eu), project: [frame-next.eu](https://frame-next.eu)
+logo CEF, logo FRAME-NEXT, [frame-next.eu](https://frame-next.eu)
 
 
 # NOTES
