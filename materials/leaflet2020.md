@@ -39,7 +39,8 @@ logo CEF, logo FRAME-NEXT, [frame-next.eu](https://frame-next.eu)
 
 # NOTES
 - logo FRAME at the heading
+- QR Code in the bullet points section
 - thematic logos at each section
 - publication date (October 2020) in the footer
-
+- Frame Next logo and website in the footer
 
