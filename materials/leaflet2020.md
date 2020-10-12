@@ -9,7 +9,7 @@ The European ITS Framework Architecture (FRAME) used for development of intercon
 
 ## Keeping pace with today’s world
 FRAME has been evolving for over 20 years and already covers many 
-ITS topics including Traffic Management, and Traveller Information. It was
+ITS topics including Traffic Management, and Traveller Information. It It has been
 updated to include the Priority Actions in the European ITS Directive, such
 as eCall, National Access Points (NAP) and Truck Parking.
 
@@ -40,5 +40,6 @@ logo CEF, logo FRAME-NEXT, architecture: [frame-online.eu](https://frame-online.
 # NOTES
 - logo FRAME at the heading
 - thematic logos at each section
+- publication date (October 2020) in the footer
 
 
