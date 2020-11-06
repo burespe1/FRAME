@@ -9,7 +9,7 @@ The European ITS Framework Architecture (FRAME) used for development of intercon
 
 ## Keeping pace with today’s world
 FRAME has been evolving for over 20 years and already covers many 
-ITS topics including Traffic Management, and Traveler Information. It has been
+ITS topics including Traffic Management, and Traveler Information. It is being 
 updated to include the Priority Actions in the European ITS Directive, such
 as eCall, National Access Points (NAP) and Truck Parking.
 
