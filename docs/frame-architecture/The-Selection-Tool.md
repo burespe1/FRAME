@@ -1,3 +1,0 @@
-## The Selection Tool
-
-

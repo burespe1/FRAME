@@ -1,3 +1,0 @@
-## SEMINARS & WORKSHOPS
-
-

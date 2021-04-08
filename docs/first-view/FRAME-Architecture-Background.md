@@ -1,3 +1,0 @@
-## FRAME Architecture – Background
-
-
