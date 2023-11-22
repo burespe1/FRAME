@@ -9,6 +9,7 @@ FRAME Architecture (including eCall reference architecture) https://files.austri
 FRAME Toolbox for import: https://files.austriatech.at/#my-libs/lib/5ffeff21-ba3f-48cd-9424-2f1ab336774e/06_EA%20Development/FRAME%20Toolbox
 
 NAP reference architecture: https://files.austriatech.at/#my-libs/lib/5ffeff21-ba3f-48cd-9424-2f1ab336774e/06_EA%20Development/NAP%20Reference%20Architecture
+https://github.com/AustriaTech/NAP_Reference_Architecture
 
 FRAME Functions and User Need - FRAME repository https://files.austriatech.at/#my-libs/lib/5ffeff21-ba3f-48cd-9424-2f1ab336774e/02_Workfolder%20SPARX%20FRAME%20architecture
 
