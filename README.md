@@ -15,6 +15,11 @@ Information, descriptions and further links can be found within the tab "Wiki"<b
 
 [FRAME Toolbox for EA import](https://files.austriatech.at/#my-libs/lib/5ffeff21-ba3f-48cd-9424-2f1ab336774e/06_EA%20Development/FRAME%20Toolbox)<br>
 
-[FRAME Workshops and tutorials](https://files.austriatech.at/#my-libs/lib/5ffeff21-ba3f-48cd-9424-2f1ab336774e/05_EA-Workshops_WebEx<br>
+[FRAME Workshops and tutorials](https://files.austriatech.at/#my-libs/lib/5ffeff21-ba3f-48cd-9424-2f1ab336774e/05_EA-Workshops_WebEx)<br>
 
-For further topics like workshop requests, cooperations and others please contact us: contact -AT- frame-online.eu
+For further topics like workshop requests, cooperations and others please contact us: [https://frame-online.eu/](https://frame-online.eu/)<br>
+
+## Ongoing developments of reference architectures:<br>
+Within the project [NAPCORE](https://napcore.eu/), with the main goal to harmonize the National Access Points (NAP) and National Bodies (NB) through 33 countries, the FRAME NAP reference Architecture faces an update procedure.
+Therefore we established another GitHub repository:
+[NAP Reference Architecture](https://github.com/AustriaTech/NAP_Reference_Architecture)
