@@ -21,5 +21,9 @@ For further topics like workshop requests, cooperations and others please contac
 
 ## Ongoing developments of reference architectures:<br>
 Within the project [NAPCORE](https://napcore.eu/), with the main goal to harmonize the National Access Points (NAP) and National Bodies (NB) through 33 countries, the FRAME NAP reference Architecture faces an update procedure.
-Therefore we established another GitHub repository:
+Therefore we established another GitHub repository:<br>
+>> NAPCORE National Access Point Reference Architecture<br>
 [NAP Reference Architecture](https://github.com/AustriaTech/NAP_Reference_Architecture)
+
+>> NAPCORE National Body Reference Architecture<br>
+[NB Reference Architecture](https://github.com/AustriaTech/NB_Reference_Architecture)
